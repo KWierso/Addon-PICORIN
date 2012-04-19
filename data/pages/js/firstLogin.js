@@ -6,13 +6,10 @@ $("#dialog").dialog({
 	minWidth: 450,
 	buttons: {
 		"Save Password": function() {
-		
-		},
-		"Close": function() {
-			$(this).dialog("close");
+			self.port.emit("storeUserInformation", $("input:[name=uname]").val(), $("input:[name=upass1]").val());
 		}
+	},
+	open: function() { 
+		$(".ui-dialog-titlebar-close").hide(); 
 	}
 })
-
-$("#button_save")
-	.button();
