@@ -1,4 +1,4 @@
-This is the skripsi add-on.  It contains:
+This is the PICORIN add-on.  It contains:
 
 * A program (lib/main.js).
 * A few tests.
