@@ -1,9 +1,9 @@
 {
-    "name": "skripsi", 
-    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
-    "author": "", 
-    "version": "0.1", 
-    "fullName": "skripsi", 
-    "id": "jid1-RBNWG5FkmPQ2eQ", 
+    "name": "picorin",
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+    "author": "",
+    "version": "0.1",
+    "fullName": "picorin",
+    "id": "jid1-RBNWG5FkmPQ2eQ",
     "description": "a basic add-on"
 }
