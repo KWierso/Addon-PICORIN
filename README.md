@@ -1,5 +1,3 @@
-Description
-
 PICORIN-Personal Internet COntent filteRINg
 ===========================================
 
