@@ -4,3 +4,6 @@ Change Logs:
 		
 	v0.02
 		Implementing the passwords module for setting the password
+		
+	v0.03
+		Fixing the passwords implementation (password is not stored)
