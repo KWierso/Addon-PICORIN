@@ -1,3 +1,5 @@
+console.log("panel says hi");
+
 $("#button_toggle")
     .button()
     .click(function(event) {
